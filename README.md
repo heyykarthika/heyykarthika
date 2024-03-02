@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heyykarthika
-- 👀 I’m interested in coding and lea
+- 👀 I’m interested in coding and learning
 - 🌱 I’m currently doing graduation in B.Sc. IT
 - 💞️ I’m looking to collaborate on Data Science and Web Development
 - 📫 How to reach me : kartika412174@gmail.com
